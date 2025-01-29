@@ -1,2 +1,2 @@
-# Smart-Automatic-Food-Dispenser
-"STM32 Nucleo Pet Feeder: Feed pets with ease using STM32F401RE , servo motor, and ultrasonic sensor. Customizable &amp; pet-friendly. 🐾🍽️
+# Smart Pet Feeder System
+"Developed an automated smart pet feeding system to simplify the feeding process for pets. Using an STM32F401RE microcontroller, the system incorporates a servo motor and ultrasonic sensor to dispense food based on distance detection, offering a customized and efficient feeding solution. The project allows for precise control over feeding time and portion sizes, creating a user-friendly and pet-friendly experience.
